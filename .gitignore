@@ -1,0 +1,14 @@
+.class
+.vscode
+.DS_Store
+.idea
+*.iml
+*.log
+*.class
+*.jar
+*.war
+*.ear
+*.db
+*.hprof
+*.apk
+*.dex       
